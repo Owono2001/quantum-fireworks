@@ -1,5 +1,5 @@
 # Quantum Fireworks Simulation
-
+![Quantum Fireworks Simulation](simulation.jpeg)
 Advanced particle system with fluid dynamics and genetic algorithms
 
 ## Features
