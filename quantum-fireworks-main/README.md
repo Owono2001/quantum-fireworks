@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="simulation.jpeg" alt="Quantum Fireworks Simulation Showcase" width="85%"> 
+  <img src="quantum.jpg" alt="Quantum Fireworks Simulation Showcase" width="85%"> 
   <br>
 </p>
 
